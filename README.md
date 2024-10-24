@@ -12,19 +12,19 @@ The **Todo List App** is a simple yet powerful application built using **React**
 
 ## 🌟 Features
 
-- **Fetch Todos**: Dynamically retrieves a list of todos from a public API.
-- **Add Todo**: Easily add new tasks to your todo list.
-- **Edit Todo**: Modify existing todo items with just a few clicks.
-- **Delete Todo**: Remove unwanted tasks from your list.
-- **Toggle Completion**: Mark tasks as completed or pending with a click.
+- ✅ **Fetch Todos**: Dynamically retrieves a list of todos from a public API.
+- ➕ **Add Todo**: Easily add new tasks to your todo list.
+- ✏️ **Edit Todo**: Modify existing todo items with just a few clicks.
+- 🗑️ **Delete Todo**: Remove unwanted tasks from your list.
+- 🔄 **Toggle Completion**: Mark tasks as completed or pending with a click.
 
 ## 🛠 Technologies Used
 
-- **React**: A JavaScript library for building user interfaces.
-- **JavaScript**: The programming language used for application logic.
-- **CSS**: For styling and layout.
-- **Fetch API**: For making HTTP requests.
-- **Netlify**: For deploying the live application.
+- ⚛️ **React**: A JavaScript library for building user interfaces.
+- 📜 **JavaScript**: The programming language used for application logic.
+- 🎨 **CSS**: For styling and layout.
+- 🌐 **Fetch API**: For making HTTP requests.
+- 🚀 **Netlify**: For deploying the live application.
 
 ## 🚀 Installation
 
