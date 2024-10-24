@@ -1,12 +1,32 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/SamChrstopher/todo-app-react?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SamChrstopher/todo-app-react?style=social)
 
-Currently, two official plugins are available:
+## 📖 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# todo-app-react
->>>>>>> d557b7b279baaff72e00cb2b1f963cdf91e3c910
+The **Todo List App** is a simple yet powerful application built using **React** that helps users manage their tasks effectively. With functionalities to add, edit, delete, and toggle the status of todos, this app is a great way to keep track of your daily tasks.
+
+## 🌟 Features
+
+- **Fetch Todos**: Dynamically retrieves a list of todos from a public API.
+- **Add Todo**: Easily add new tasks to your todo list.
+- **Edit Todo**: Modify existing todo items with just a few clicks.
+- **Delete Todo**: Remove unwanted tasks from your list.
+- **Toggle Completion**: Mark tasks as completed or pending with a click.
+
+## 🛠 Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **JavaScript**: The programming language used for application logic.
+- **CSS**: For styling and layout.
+- **Fetch API**: For making HTTP requests.
+
+## 🚀 Installation
+
+To get the project up and running on your local machine, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/SamChrstopher/todo-app-react.git
