@@ -247,6 +247,67 @@ input[type="checkbox"]{
 
 }
 
+/* Add media query for very small screens (max-width: 360px) */
+@media only screen and (max-width: 360px) {
+  .list {
+    width: 100%; 
+    padding: 5px 10px; 
+    font-size: 0.8rem; 
+    flex-direction: column;
+    align-items: center; 
+  }
+
+  .center input {
+    height: 20px; 
+    width: 90%; 
+  }
+
+  .center button {
+    height: 26px; 
+    width: 45px; 
+    font-size: 0.8rem; 
+  }
+}
+
+/* Add media query for very small screens (max-width: 320px) */
+@media only screen and (max-width: 320px) {
+  .list {
+    width: 100%; 
+    padding: 5px 5px; 
+    font-size: 0.7rem; 
+  }
+
+  .center input {
+    height: 18px;
+    width: 90%; 
+  }
+
+  .center button {
+    height: 24px; 
+    width: 40px; 
+    font-size: 0.7rem; 
+  }
+}
+
+/* Additional media query to optimize appearance on very small screens */
+@media only screen and (max-width: 280px) {
+  .list {
+    padding: 5px 2px; 
+    font-size: 0.6rem; 
+  }
+
+  .center input {
+    height: 16px; 
+    width: 90%; 
+  }
+
+  .center button {
+    height: 22px;
+    width: 35px; 
+    font-size: 0.6rem; 
+  }
+}
+
 /* media query ends */
 
 
