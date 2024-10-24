@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  font-family: "Poppins", serif;
+  background-image: url(./images/5461992.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
