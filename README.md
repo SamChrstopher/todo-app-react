@@ -8,6 +8,8 @@
 
 The **Todo List App** is a simple yet powerful application built using **React** that helps users manage their tasks effectively. With functionalities to add, edit, delete, and toggle the status of todos, this app is a great way to keep track of your daily tasks.
 
+**Live Demo**: [View the live project here](https://todo-app-samchrstopher.netlify.app/)
+
 ## 🌟 Features
 
 - **Fetch Todos**: Dynamically retrieves a list of todos from a public API.
@@ -22,6 +24,7 @@ The **Todo List App** is a simple yet powerful application built using **React**
 - **JavaScript**: The programming language used for application logic.
 - **CSS**: For styling and layout.
 - **Fetch API**: For making HTTP requests.
+- **Netlify**: For deploying the live application.
 
 ## 🚀 Installation
 
